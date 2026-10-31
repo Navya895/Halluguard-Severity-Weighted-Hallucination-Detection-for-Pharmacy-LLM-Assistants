@@ -1,0 +1,172 @@
+[
+  {
+    "claim": "Warfarin treatment may be adjusted based on regular blood test results.",
+    "context": "Question: How is warfarin therapy monitored?\nEvidence: MedlinePlus says healthcare providers order regular blood tests to check the body's response to warfarin and adjust the dose based on results.",
+    "label": 1
+  },
+  {
+    "claim": "Warfarin doses should never be adjusted based on blood test results.",
+    "context": "Question: How is warfarin therapy monitored?\nEvidence: MedlinePlus says healthcare providers order regular blood tests to check the body's response to warfarin and adjust the dose based on results.",
+    "label": 0
+  },
+  {
+    "claim": "Patients taking warfarin should tell their healthcare provider about other medicines and supplements they use.",
+    "context": "Question: Can warfarin interact with other medicines?\nEvidence: MedlinePlus advises patients to tell their doctor and pharmacist about prescription medicines, nonprescription medicines, vitamins, and supplements because some can interact with warfarin.",
+    "label": 1
+  },
+  {
+    "claim": "Warfarin has no interactions with other medicines or supplements.",
+    "context": "Question: Can warfarin interact with other medicines?\nEvidence: MedlinePlus advises patients to tell their doctor and pharmacist about prescription medicines, nonprescription medicines, vitamins, and supplements because some can interact with warfarin.",
+    "label": 0
+  },
+  {
+    "claim": "Metformin is used to help manage type 2 diabetes.",
+    "context": "Question: Is metformin used to treat type 2 diabetes?\nEvidence: MedlinePlus states that metformin is used alone or with other medicines to treat type 2 diabetes.",
+    "label": 1
+  },
+  {
+    "claim": "Metformin is not used to treat type 2 diabetes.",
+    "context": "Question: Is metformin used to treat type 2 diabetes?\nEvidence: MedlinePlus states that metformin is used alone or with other medicines to treat type 2 diabetes.",
+    "label": 0
+  },
+  {
+    "claim": "Metformin is not used to treat type 1 diabetes.",
+    "context": "Question: Is metformin used to treat type 1 diabetes?\nEvidence: MedlinePlus states that metformin is not used to treat type 1 diabetes.",
+    "label": 1
+  },
+  {
+    "claim": "Metformin is specifically used to treat type 1 diabetes.",
+    "context": "Question: Is metformin used to treat type 1 diabetes?\nEvidence: MedlinePlus states that metformin is not used to treat type 1 diabetes.",
+    "label": 0
+  },
+  {
+    "claim": "Ibuprofen may increase the risk of heart attack or stroke.",
+    "context": "Question: Can ibuprofen increase cardiovascular risk?\nEvidence: MedlinePlus warns that NSAIDs such as ibuprofen may increase the risk of heart attack or stroke, and that these events can occur without warning.",
+    "label": 1
+  },
+  {
+    "claim": "Ibuprofen has no association with heart attack or stroke risk.",
+    "context": "Question: Can ibuprofen increase cardiovascular risk?\nEvidence: MedlinePlus warns that NSAIDs such as ibuprofen may increase the risk of heart attack or stroke, and that these events can occur without warning.",
+    "label": 0
+  },
+  {
+    "claim": "Ibuprofen belongs to the NSAID class of medicines.",
+    "context": "Question: Is ibuprofen an NSAID?\nEvidence: MedlinePlus identifies ibuprofen as a nonsteroidal anti-inflammatory drug (NSAID).",
+    "label": 1
+  },
+  {
+    "claim": "Ibuprofen is not a nonsteroidal anti-inflammatory drug.",
+    "context": "Question: Is ibuprofen an NSAID?\nEvidence: MedlinePlus identifies ibuprofen as a nonsteroidal anti-inflammatory drug (NSAID).",
+    "label": 0
+  },
+  {
+    "claim": "Atorvastatin can be prescribed to lower cholesterol and reduce the risk of heart attack or stroke.",
+    "context": "Question: What is atorvastatin used for?\nEvidence: MedlinePlus states that atorvastatin is used to lower cholesterol and reduce the risk of heart attack and stroke.",
+    "label": 1
+  },
+  {
+    "claim": "Atorvastatin is used to increase cholesterol and raise heart attack risk.",
+    "context": "Question: What is atorvastatin used for?\nEvidence: MedlinePlus states that atorvastatin is used to lower cholesterol and reduce the risk of heart attack and stroke.",
+    "label": 0
+  },
+  {
+    "claim": "Patients should consult their doctor before stopping atorvastatin.",
+    "context": "Question: Should atorvastatin be stopped without consulting a healthcare provider?\nEvidence: MedlinePlus instructs patients to continue atorvastatin even if they feel well and not to stop it without talking to their doctor.",
+    "label": 1
+  },
+  {
+    "claim": "Patients should stop atorvastatin whenever they feel well without consulting a doctor.",
+    "context": "Question: Should atorvastatin be stopped without consulting a healthcare provider?\nEvidence: MedlinePlus instructs patients to continue atorvastatin even if they feel well and not to stop it without talking to their doctor.",
+    "label": 0
+  },
+  {
+    "claim": "Aspirin can be used to relieve mild to moderate pain and inflammation.",
+    "context": "Question: Can aspirin relieve mild to moderate pain?\nEvidence: MedlinePlus lists relieving mild to moderate pain and inflammation among aspirin's uses.",
+    "label": 1
+  },
+  {
+    "claim": "Aspirin has no use for relieving pain or inflammation.",
+    "context": "Question: Can aspirin relieve mild to moderate pain?\nEvidence: MedlinePlus lists relieving mild to moderate pain and inflammation among aspirin's uses.",
+    "label": 0
+  },
+  {
+    "claim": "Aspirin can be used in certain patients to reduce the risk of blood clots and cardiovascular events.",
+    "context": "Question: Can aspirin affect blood clotting?\nEvidence: MedlinePlus says aspirin is used in some situations to help prevent heart attacks and strokes and works by blocking substances involved in pain, swelling, fever, and blood clots.",
+    "label": 1
+  },
+  {
+    "claim": "Aspirin has no effect on processes related to blood clots.",
+    "context": "Question: Can aspirin affect blood clotting?\nEvidence: MedlinePlus says aspirin is used in some situations to help prevent heart attacks and strokes and works by blocking substances involved in pain, swelling, fever, and blood clots.",
+    "label": 0
+  },
+  {
+    "claim": "Albuterol can help relieve wheezing and difficulty breathing associated with asthma or COPD.",
+    "context": "Question: What symptoms can albuterol help treat?\nEvidence: MedlinePlus says albuterol is used to prevent and treat wheezing, difficulty breathing, chest tightness, and coughing caused by conditions such as asthma and COPD.",
+    "label": 1
+  },
+  {
+    "claim": "Albuterol is used to cause airway narrowing and worsen wheezing.",
+    "context": "Question: What symptoms can albuterol help treat?\nEvidence: MedlinePlus says albuterol is used to prevent and treat wheezing, difficulty breathing, chest tightness, and coughing caused by conditions such as asthma and COPD.",
+    "label": 0
+  },
+  {
+    "claim": "Albuterol may control symptoms but does not cure asthma or COPD.",
+    "context": "Question: Does albuterol cure asthma or COPD?\nEvidence: MedlinePlus says albuterol may help control symptoms but will not cure the underlying condition.",
+    "label": 1
+  },
+  {
+    "claim": "Albuterol permanently cures asthma and COPD.",
+    "context": "Question: Does albuterol cure asthma or COPD?\nEvidence: MedlinePlus says albuterol may help control symptoms but will not cure the underlying condition.",
+    "label": 0
+  },
+  {
+    "claim": "Acetaminophen can be used to relieve mild to moderate pain and reduce fever.",
+    "context": "Question: What symptoms is acetaminophen used to relieve?\nEvidence: MedlinePlus says acetaminophen is used to relieve mild to moderate pain and reduce fever.",
+    "label": 1
+  },
+  {
+    "claim": "Acetaminophen is not used to relieve pain or reduce fever.",
+    "context": "Question: What symptoms is acetaminophen used to relieve?\nEvidence: MedlinePlus says acetaminophen is used to relieve mild to moderate pain and reduce fever.",
+    "label": 0
+  },
+  {
+    "claim": "Acetaminophen should be taken according to the package or prescription directions.",
+    "context": "Question: Should someone take more acetaminophen than the label directs if pain persists?\nEvidence: MedlinePlus advises taking acetaminophen exactly as directed and not taking more or more frequently than directed by the package or prescription label.",
+    "label": 1
+  },
+  {
+    "claim": "If pain persists, a person should take more acetaminophen than the label directs.",
+    "context": "Question: Should someone take more acetaminophen than the label directs if pain persists?\nEvidence: MedlinePlus advises taking acetaminophen exactly as directed and not taking more or more frequently than directed by the package or prescription label.",
+    "label": 0
+  },
+  {
+    "claim": "Prednisone may reduce the body's ability to fight infection and can mask some infection symptoms.",
+    "context": "Question: Can prednisone affect the body's ability to fight infection?\nEvidence: MedlinePlus says prednisone may decrease the ability to fight infection and may mask symptoms of infection.",
+    "label": 1
+  },
+  {
+    "claim": "Prednisone always strengthens the immune system's ability to fight infections.",
+    "context": "Question: Can prednisone affect the body's ability to fight infection?\nEvidence: MedlinePlus says prednisone may decrease the ability to fight infection and may mask symptoms of infection.",
+    "label": 0
+  },
+  {
+    "claim": "Patients should inform healthcare staff about current or recent prednisone use before surgery or emergency treatment.",
+    "context": "Question: Should patients tell healthcare staff that they take or recently stopped prednisone before surgery or emergency treatment?\nEvidence: MedlinePlus advises patients to tell healthcare professionals if they are having surgery or need emergency medical treatment and are taking or recently stopped prednisone.",
+    "label": 1
+  },
+  {
+    "claim": "Patients should hide current or recent prednisone use from healthcare staff before surgery.",
+    "context": "Question: Should patients tell healthcare staff that they take or recently stopped prednisone before surgery or emergency treatment?\nEvidence: MedlinePlus advises patients to tell healthcare professionals if they are having surgery or need emergency medical treatment and are taking or recently stopped prednisone.",
+    "label": 0
+  },
+  {
+    "claim": "Lisinopril is used to treat high blood pressure.",
+    "context": "Question: Can lisinopril be used to treat high blood pressure?\nEvidence: MedlinePlus states that lisinopril is used alone or with other medicines to treat high blood pressure.",
+    "label": 1
+  },
+  {
+    "claim": "Lisinopril is not used to treat high blood pressure.",
+    "context": "Question: Can lisinopril be used to treat high blood pressure?\nEvidence: MedlinePlus states that lisinopril is used alone or with other medicines to treat high blood pressure.",
+    "label": 0
+  }
+]

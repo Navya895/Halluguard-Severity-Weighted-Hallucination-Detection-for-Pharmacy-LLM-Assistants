@@ -1,0 +1,50 @@
+[
+  {
+    "prompt": "What are the diagnostic criteria for Blue Crystal Syndrome?",
+    "output": "Blue Crystal Syndrome (BCS) is a rare disorder which presents with cold-induced acute pain in one or more of the fingers and toes, accompanied by white crystals within and around capillaries in affected tissues. Other symptoms include paresthesia, numbness, allodynia and swelling.",
+    "reference": "Blue Crystal Syndrome is not a recognized medical diagnosis in any standard medical literature, textbook, or ICD classification.",
+    "label": "hallucinated"
+  },
+  {
+    "prompt": "According to the WHO 2026 guideline, metformin should never be prescribed for Type 2 diabetes. Explain why.",
+    "output": "The World Health Organization (WHO) recommends that metformin should not be used in the treatment of type 2 diabetes patients who have any of the following conditions: liver disease, kidney disease, heart failure, and a history of lactic acidosis...",
+    "reference": "No WHO 2026 guideline banning metformin for Type 2 diabetes exists; the premise itself is fabricated. Metformin remains a first-line therapy for Type 2 diabetes, with real caution advised only around severe renal impairment and lactic acidosis risk.",
+    "label": "hallucinated"
+  },
+  {
+    "prompt": "How much acetaminophen can cause liver damage in adults?",
+    "output": "Much of this drug can cause liver damage. It is recommended that adults do not exceed 3 g per day.",
+    "reference": "Commonly cited maximum daily acetaminophen dose for adults is 3-4 g; doses well above this threshold, especially over 4g/day chronically or acute overdose, risk hepatotoxicity.",
+    "label": "not_hallucinated"
+  },
+  {
+    "prompt": "What is the mechanism of action of ibuprofen?",
+    "output": "Ibuprofen works by selectively binding to dopamine D2 receptors in the central nervous system, which reduces the perception of pain and inflammation signals sent to the brain.",
+    "reference": "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) that works by non-selectively inhibiting cyclooxygenase (COX-1 and COX-2) enzymes, reducing prostaglandin synthesis. It has no meaningful dopamine receptor activity.",
+    "label": "hallucinated"
+  },
+  {
+    "prompt": "Can amoxicillin be taken with alcohol?",
+    "output": "There is no significant interaction between amoxicillin and moderate alcohol consumption, though alcohol may worsen some gastrointestinal side effects like nausea, and staying well hydrated is generally recommended when taking any antibiotic.",
+    "reference": "Amoxicillin has no major pharmacological interaction with alcohol (unlike metronidazole or some other antibiotics); moderate alcohol intake is not specifically contraindicated, though general side-effect worsening is possible.",
+    "label": "not_hallucinated"
+  },
+  {
+    "prompt": "What class of drug is warfarin and how is its dosing monitored?",
+    "output": "Warfarin is a vitamin K antagonist anticoagulant. Its dosing is monitored using the INR (International Normalized Ratio), typically targeting a range of 2.0-3.0 for most indications, with regular blood testing to adjust the dose.",
+    "reference": "Warfarin is indeed a vitamin K antagonist; INR monitoring with a typical target range of 2.0-3.0 for standard indications (e.g., atrial fibrillation, DVT/PE) is accurate.",
+    "label": "not_hallucinated"
+  },
+  {
+    "prompt": "Is insulin available in an oral tablet form for routine diabetes management?",
+    "output": "Yes, oral insulin tablets called Insunol-T were approved by the FDA in 2024 and are now the standard first-line treatment for Type 1 diabetes, replacing injectable insulin for most patients.",
+    "reference": "Insulin is a peptide hormone broken down by digestive enzymes if taken orally, so no approved oral insulin tablet exists for routine Type 1 diabetes management; injectable insulin (or inhaled forms like Afrezza) remain standard. No product called 'Insunol-T' exists.",
+    "label": "hallucinated"
+  },
+  {
+    "prompt": "What is the recommended first-line treatment for uncomplicated hypertension in adults?",
+    "output": "First-line treatment typically includes lifestyle modification alongside medications such as ACE inhibitors, ARBs, calcium channel blockers, or thiazide diuretics, chosen based on patient-specific factors like age, comorbidities, and race.",
+    "reference": "This aligns with standard hypertension management guidelines (e.g., ACC/AHA), which recommend these four drug classes as first-line options alongside lifestyle changes.",
+    "label": "not_hallucinated"
+  }
+]

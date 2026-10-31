@@ -1,0 +1,52 @@
+[
+  {
+    "claim": "Amoxicillin does not treat viral infections such as colds or flu.",
+    "context": "Question: Does amoxicillin treat viral colds and flu?\nEvidence: MedlinePlus says antibiotics such as amoxicillin do not work for colds, flu, and other viral infections.",
+    "label": 1
+  },
+  {
+    "claim": "Amoxicillin reliably treats the viruses that cause colds and flu.",
+    "context": "Question: Does amoxicillin treat viral colds and flu?\nEvidence: MedlinePlus says antibiotics such as amoxicillin do not work for colds, flu, and other viral infections.",
+    "label": 0
+  },
+  {
+    "claim": "MedlinePlus advises patients to finish the prescribed amoxicillin course even if they feel better.",
+    "context": "Question: Should a patient stop amoxicillin early just because they feel better?\nEvidence: MedlinePlus advises taking amoxicillin until the prescription is finished, even if the patient feels better, unless the prescriber gives different instructions.",
+    "label": 1
+  },
+  {
+    "claim": "MedlinePlus advises stopping amoxicillin as soon as symptoms improve.",
+    "context": "Question: Should a patient stop amoxicillin early just because they feel better?\nEvidence: MedlinePlus advises taking amoxicillin until the prescription is finished, even if the patient feels better, unless the prescriber gives different instructions.",
+    "label": 0
+  },
+  {
+    "claim": "Levothyroxine is used to treat hypothyroidism.",
+    "context": "Question: What condition is levothyroxine used to treat?\nEvidence: MedlinePlus states that levothyroxine is used to treat hypothyroidism, a condition in which the thyroid gland does not produce enough thyroid hormone.",
+    "label": 1
+  },
+  {
+    "claim": "Levothyroxine is used to treat hyperthyroidism caused by too much thyroid hormone.",
+    "context": "Question: What condition is levothyroxine used to treat?\nEvidence: MedlinePlus states that levothyroxine is used to treat hypothyroidism, a condition in which the thyroid gland does not produce enough thyroid hormone.",
+    "label": 0
+  },
+  {
+    "claim": "Levothyroxine should not be used as a weight-loss treatment.",
+    "context": "Question: Can levothyroxine be used by itself for weight loss?\nEvidence: MedlinePlus warns that levothyroxine should not be used alone or with other treatments to treat obesity or cause weight loss.",
+    "label": 1
+  },
+  {
+    "claim": "Levothyroxine is recommended to cause weight loss in people without hypothyroidism.",
+    "context": "Question: Can levothyroxine be used by itself for weight loss?\nEvidence: MedlinePlus warns that levothyroxine should not be used alone or with other treatments to treat obesity or cause weight loss.",
+    "label": 0
+  },
+  {
+    "claim": "Patients taking furosemide should discuss NSAID use with their healthcare provider.",
+    "context": "Question: Can furosemide interact with NSAIDs such as ibuprofen?\nEvidence: MedlinePlus advises patients taking furosemide to tell their healthcare provider about NSAIDs such as ibuprofen and naproxen because they may interact.",
+    "label": 1
+  },
+  {
+    "claim": "Furosemide cannot interact with NSAIDs such as ibuprofen or naproxen.",
+    "context": "Question: Can furosemide interact with NSAIDs such as ibuprofen?\nEvidence: MedlinePlus advises patients taking furosemide to tell their healthcare provider about NSAIDs such as ibuprofen and naproxen because they may interact.",
+    "label": 0
+  }
+]

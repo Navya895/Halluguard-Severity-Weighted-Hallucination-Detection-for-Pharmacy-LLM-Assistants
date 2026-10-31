@@ -1,0 +1,92 @@
+[
+  {
+    "claim": "Amoxicillin does not treat viral infections such as colds or flu.",
+    "context": "Question: Does amoxicillin treat viral colds and flu?\nEvidence: MedlinePlus says antibiotics such as amoxicillin do not work for colds, flu, and other viral infections.",
+    "true_label": 1,
+    "probability_supported": 0.04883217066526413,
+    "prediction_at_0.5": 0,
+    "prediction_at_selected_threshold": 0,
+    "threshold": 0.05486013926565647
+  },
+  {
+    "claim": "Amoxicillin reliably treats the viruses that cause colds and flu.",
+    "context": "Question: Does amoxicillin treat viral colds and flu?\nEvidence: MedlinePlus says antibiotics such as amoxicillin do not work for colds, flu, and other viral infections.",
+    "true_label": 0,
+    "probability_supported": 0.048663876950740814,
+    "prediction_at_0.5": 0,
+    "prediction_at_selected_threshold": 0,
+    "threshold": 0.05486013926565647
+  },
+  {
+    "claim": "MedlinePlus advises patients to finish the prescribed amoxicillin course even if they feel better.",
+    "context": "Question: Should a patient stop amoxicillin early just because they feel better?\nEvidence: MedlinePlus advises taking amoxicillin until the prescription is finished, even if the patient feels better, unless the prescriber gives different instructions.",
+    "true_label": 1,
+    "probability_supported": 0.05355597287416458,
+    "prediction_at_0.5": 0,
+    "prediction_at_selected_threshold": 0,
+    "threshold": 0.05486013926565647
+  },
+  {
+    "claim": "MedlinePlus advises stopping amoxicillin as soon as symptoms improve.",
+    "context": "Question: Should a patient stop amoxicillin early just because they feel better?\nEvidence: MedlinePlus advises taking amoxicillin until the prescription is finished, even if the patient feels better, unless the prescriber gives different instructions.",
+    "true_label": 0,
+    "probability_supported": 0.0522954985499382,
+    "prediction_at_0.5": 0,
+    "prediction_at_selected_threshold": 0,
+    "threshold": 0.05486013926565647
+  },
+  {
+    "claim": "Levothyroxine is used to treat hypothyroidism.",
+    "context": "Question: What condition is levothyroxine used to treat?\nEvidence: MedlinePlus states that levothyroxine is used to treat hypothyroidism, a condition in which the thyroid gland does not produce enough thyroid hormone.",
+    "true_label": 1,
+    "probability_supported": 0.04694873467087746,
+    "prediction_at_0.5": 0,
+    "prediction_at_selected_threshold": 0,
+    "threshold": 0.05486013926565647
+  },
+  {
+    "claim": "Levothyroxine is used to treat hyperthyroidism caused by too much thyroid hormone.",
+    "context": "Question: What condition is levothyroxine used to treat?\nEvidence: MedlinePlus states that levothyroxine is used to treat hypothyroidism, a condition in which the thyroid gland does not produce enough thyroid hormone.",
+    "true_label": 0,
+    "probability_supported": 0.0442933514714241,
+    "prediction_at_0.5": 0,
+    "prediction_at_selected_threshold": 0,
+    "threshold": 0.05486013926565647
+  },
+  {
+    "claim": "Levothyroxine should not be used as a weight-loss treatment.",
+    "context": "Question: Can levothyroxine be used by itself for weight loss?\nEvidence: MedlinePlus warns that levothyroxine should not be used alone or with other treatments to treat obesity or cause weight loss.",
+    "true_label": 1,
+    "probability_supported": 0.0495159886777401,
+    "prediction_at_0.5": 0,
+    "prediction_at_selected_threshold": 0,
+    "threshold": 0.05486013926565647
+  },
+  {
+    "claim": "Levothyroxine is recommended to cause weight loss in people without hypothyroidism.",
+    "context": "Question: Can levothyroxine be used by itself for weight loss?\nEvidence: MedlinePlus warns that levothyroxine should not be used alone or with other treatments to treat obesity or cause weight loss.",
+    "true_label": 0,
+    "probability_supported": 0.0429735891520977,
+    "prediction_at_0.5": 0,
+    "prediction_at_selected_threshold": 0,
+    "threshold": 0.05486013926565647
+  },
+  {
+    "claim": "Patients taking furosemide should discuss NSAID use with their healthcare provider.",
+    "context": "Question: Can furosemide interact with NSAIDs such as ibuprofen?\nEvidence: MedlinePlus advises patients taking furosemide to tell their healthcare provider about NSAIDs such as ibuprofen and naproxen because they may interact.",
+    "true_label": 1,
+    "probability_supported": 0.05714819207787514,
+    "prediction_at_0.5": 0,
+    "prediction_at_selected_threshold": 1,
+    "threshold": 0.05486013926565647
+  },
+  {
+    "claim": "Furosemide cannot interact with NSAIDs such as ibuprofen or naproxen.",
+    "context": "Question: Can furosemide interact with NSAIDs such as ibuprofen?\nEvidence: MedlinePlus advises patients taking furosemide to tell their healthcare provider about NSAIDs such as ibuprofen and naproxen because they may interact.",
+    "true_label": 0,
+    "probability_supported": 0.05146155133843422,
+    "prediction_at_0.5": 0,
+    "prediction_at_selected_threshold": 0,
+    "threshold": 0.05486013926565647
+  }
+]
